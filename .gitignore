@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/UOB.API/.vs/UOB.API
+/UOB.API/UOB.API/obj
+/UOB.API/UOB.API/Properties
+/UOB.API/UOB.API/appsettings.json
+/UOB.API/UOB.API/bin/Debug/net8.0
+/UOB.API/obj
+/UOB.API/UOB.Repository/bin/Debug/net8.0
+/UOB.API/UOB.Repository/obj
+/UOB.API/UOB.Services/bin/Debug/net8.0
+/UOB.API/UOB.Services/obj
+/UOB.API/UOB.Shared/bin/Debug/net8.0
+/UOB.API/UOB.Shared/obj
